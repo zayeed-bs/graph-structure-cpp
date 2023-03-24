@@ -11,6 +11,9 @@
 *.gch
 *.pch
 
+*.opendb
+
+
 # Compiled Dynamic libraries
 *.so
 *.dylib
